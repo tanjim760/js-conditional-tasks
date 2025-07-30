@@ -1,4 +1,4 @@
-const myScore = 90;
+const myScore = 80;
 const friendScore = 80;
 
 if (myScore > 80) {
